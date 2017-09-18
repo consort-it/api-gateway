@@ -1,0 +1,63 @@
+var http = require('http');
+
+// Configure CircuitBreaker
+//
+// var CommandsFactory = require('hystrixjs').commandFactory;
+// var serviceCommand = CommandsFactory.getOrCreate("Service on port :" + service.port + ":" + port)
+//     .circuitBreakerErrorThresholdPercentage(service.errorThreshold)
+//     .timeout(service.timeout)
+//     .run(makeRequest)
+//     .circuitBreakerRequestVolumeThreshold(service.concurrency)
+//     .circuitBreakerSleepWindowInMilliseconds(service.timeout)
+//     .statisticalWindowLength(10000)
+//     .statisticalWindowNumberOfBuckets(10)
+//     .errorHandler(isErrorHandler)
+//     .build();
+
+http.createServer(function(request, response) {
+  
+  console.log("Procesing " + request.url);
+  
+  // Callback for every Request
+  //
+  var proxy_request = http.request({
+      port: 8080,                         // einfach mal alles an die Demo-Website weiterleiten
+      host: '127.0.0.1',                  // auf gleichem Rechner
+      method: request.method, 
+      path: request.url, 
+      headers: request.headers
+    });
+  
+  proxy_request.addListener('response', function (proxy_response) {
+  
+    if (proxy_response.statusCode == 404) {
+        console.log("File not found");
+    }
+
+    proxy_response.addListener('data', function(chunk) {
+      response.write(chunk, 'binary');
+    });
+    proxy_response.addListener('end', function() {
+      response.end();
+    });
+    response.writeHead(proxy_response.statusCode, proxy_response.headers);
+  });
+
+  request.addListener('data', function(chunk) {
+    proxy_request.write(chunk, 'binary');
+  });
+
+  request.addListener('end', function() {
+    proxy_request.end();
+  });
+
+  request.on('error', function(err) {
+      console.log("ERROR");
+      consoe.log(err.stack);
+  })
+
+}).listen(8000);
+
+console.log("API-Gateway listening on :8000");
+
+// TODO Circuit-Breaker https://www.npmjs.com/package/hystrixjs

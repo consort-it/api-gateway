@@ -1,0 +1,223 @@
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T07:59:03.882Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T07:59:03.887Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T07:59:04.054Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T07:59:04.075Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:00:59.771Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:00:59.776Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:00:59.942Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:00:59.961Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:00:59.981Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:01:20.437Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:01:20.442Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:01:20.614Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:01:20.635Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:01:20.649Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:03:53.796Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:03:53.801Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:03:54.024Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:03:54.045Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:03:54.073Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:05:04.956Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:05:04.961Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:05:05.128Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:05:05.148Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:05:05.160Z"}
+{"level":"info","message":"1) Parsing GET to /api/v2","timestamp":"2017-06-07T08:05:05.174Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:05:54.674Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:05:54.679Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:05:54.835Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:05:54.856Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:05:54.871Z"}
+{"level":"info","message":"1) Parsing GET to /api/v2","timestamp":"2017-06-07T08:05:54.889Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:07:42.952Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:07:42.956Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:07:43.126Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:07:43.145Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:07:43.157Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:12:57.020Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:12:57.025Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:12:57.204Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:12:57.235Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:12:57.255Z"}
+{"level":"info","message":"1) Parsing GET to /api/v2/unit-test","timestamp":"2017-06-07T08:12:57.279Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:14:59.917Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:14:59.922Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:15:00.095Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:15:00.115Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:15:00.126Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:15:00.135Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:21:35.579Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:21:35.583Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:21:35.750Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:21:35.770Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:21:35.782Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:21:35.791Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:21:35.793Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:21:35.793Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:21:57.179Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:21:57.183Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:21:57.350Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:21:57.369Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:21:57.379Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:21:57.388Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:21:57.389Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:21:57.389Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:23:08.656Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:23:08.660Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:23:08.817Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:23:08.841Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:23:08.862Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:23:08.890Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:23:08.898Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:23:08.898Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:25:21.185Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:25:21.190Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:25:21.350Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:25:21.369Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:25:21.381Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:25:21.390Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:25:21.391Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:25:21.392Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:25:21.395Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:25:21.396Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:25:21.396Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:29:04.978Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:29:04.982Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:29:05.166Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:29:05.189Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:29:05.212Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:29:05.228Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:29:05.233Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:29:05.233Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:29:05.236Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:29:05.236Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:29:05.236Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:29:30.025Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:29:30.030Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:29:30.186Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:29:30.208Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:29:30.248Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:29:30.263Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:29:30.264Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:29:30.264Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:29:30.267Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:29:30.267Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:29:30.267Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:30:31.176Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:30:31.181Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:30:31.351Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:30:31.371Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:30:31.385Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:30:31.395Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:30:31.399Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:30:31.399Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:30:31.407Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:30:31.408Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:30:31.408Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:41:53.815Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:41:53.819Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:41:53.992Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:41:54.019Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:41:54.033Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:41:54.043Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:41:54.046Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:41:54.046Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:41:54.057Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:41:54.057Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:41:54.057Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:41:54.063Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:41:54.064Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:41:54.064Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:42:41.026Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:42:41.031Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:42:41.195Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:42:41.213Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:42:41.225Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:42:41.234Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:42:41.236Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:42:41.236Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:42:41.241Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:42:41.242Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:42:41.242Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:42:41.247Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:42:41.247Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:42:41.248Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:43:42.696Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:43:42.700Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:43:42.862Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:43:42.883Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:43:42.896Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:43:42.913Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:43:42.915Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:43:42.915Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:43:42.926Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:43:42.927Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:43:42.927Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:43:42.932Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:43:42.932Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:43:42.932Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T08:44:02.850Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T08:44:02.854Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T08:44:03.020Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:44:03.046Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T08:44:03.078Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:44:03.094Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:44:03.096Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:44:03.096Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:44:03.107Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:44:03.108Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:44:03.108Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T08:44:03.117Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T08:44:03.117Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T08:44:03.117Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T09:01:19.208Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T09:01:19.213Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T09:01:19.403Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:01:19.429Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:01:19.447Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:01:19.476Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:01:19.478Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:01:19.479Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:01:19.486Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:01:19.486Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:01:19.486Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:01:19.503Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:01:19.503Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:01:19.503Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T09:46:47.001Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T09:46:47.005Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T09:46:47.181Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:46:47.199Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:46:47.212Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:46:47.220Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:46:47.222Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:46:47.222Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/xnit-test","timestamp":"2017-06-07T09:46:47.230Z"}
+{"level":"info","message":"2) Service name not found","timestamp":"2017-06-07T09:46:47.245Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:46:47.249Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:46:47.249Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:46:47.249Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:46:47.253Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:46:47.253Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:46:47.253Z"}
+{"level":"info","message":"Initializing API gateway","timestamp":"2017-06-07T09:48:03.245Z"}
+{"level":"info","message":"Listening on port 3007","timestamp":"2017-06-07T09:48:03.256Z"}
+{"level":"info","message":"Actuator endpoints listening on port 3008","timestamp":"2017-06-07T09:48:03.415Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:48:03.435Z"}
+{"level":"info","message":"GET health","timestamp":"2017-06-07T09:48:03.449Z"}
+{"level":"info","message":"------------------------","timestamp":"2017-06-07T09:48:03.466Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:48:03.466Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:48:03.468Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:48:03.469Z"}
+{"level":"info","message":"------------------------","timestamp":"2017-06-07T09:48:03.489Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/xnit-test","timestamp":"2017-06-07T09:48:03.489Z"}
+{"level":"info","message":"2) Service name not found","timestamp":"2017-06-07T09:48:03.499Z"}
+{"level":"info","message":"------------------------","timestamp":"2017-06-07T09:48:03.499Z"}
+{"level":"info","message":"------------------------","timestamp":"2017-06-07T09:48:03.502Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:48:03.502Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:48:03.502Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:48:03.502Z"}
+{"level":"info","message":"------------------------","timestamp":"2017-06-07T09:48:03.504Z"}
+{"level":"info","message":"1) Parsing GET to /api/v1/unit-test","timestamp":"2017-06-07T09:48:03.505Z"}
+{"level":"info","message":"2) Consul lookup successful --> unit-test-v1:999","timestamp":"2017-06-07T09:48:03.505Z"}
+{"level":"info","message":"3) Forwarding request /api/v1/unit-test to unit-test-v1:999","timestamp":"2017-06-07T09:48:03.505Z"}
